@@ -1,0 +1,504 @@
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00764806  0.01158079 -0.00282333]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001938    0.001679     0.002133
+Foreign EQ    0.001679    0.002608     0.002561
+Emerging EQ   0.002133    0.002561     0.004651
+
+Unconstrained Optimal Weights :
+[ 1.52152731  3.01444818 -2.55990273]
+
+Normalised Optimal Weights :
+[ 0.76997535  1.52547428 -1.29544963]
+
+Optimum Expected Returns :
+0.027212499331400825
+
+Optimum Variance :
+0.004590333549119381
+
+Optimum Standard Deviation :
+0.06775200033297453
+
+Optimum Sharpe Ratio :
+0.40164864797588345
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-05  -6.48602730e-06]
+ [ -6.48602730e-06   2.03531603e-05]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00957237  0.01611298 -0.01105141]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001862    0.001613     0.002049
+Foreign EQ    0.001613    0.002548     0.002502
+Emerging EQ   0.002049    0.002502     0.004511
+
+Unconstrained Optimal Weights :
+[ 2.47315978  5.37868575 -4.9241403 ]
+
+Normalised Optimal Weights :
+[ 0.84474344  1.83716779 -1.68191123]
+
+Optimum Expected Returns :
+0.056275931311109
+
+Optimum Variance :
+0.0064072856674596305
+
+Optimum Standard Deviation :
+0.08004552246977735
+
+Optimum Sharpe Ratio :
+0.7030490847549531
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.0            -1.0              0.0
+View 2        0.0             0.0              1.5
+
+Q matrix:
+[0.02, 0.015]
+
+Scalar on Manager's Views (Omega) :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Prior Precision Views :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Posterior returns :
+[ 0.01005432  0.00042699  0.00861661]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001975    0.001716     0.002133
+Foreign EQ    0.001716    0.002597     0.002513
+Emerging EQ   0.002133    0.002513     0.004603
+
+Unconstrained Optimal Weights :
+[ 3.60340643 -2.78522461  0.4750046 ]
+
+Normalised Optimal Weights :
+[ 2.78645552 -2.15376884  0.36731332]
+
+Optimum Expected Returns :
+0.030261260448482544
+
+Optimum Variance :
+0.007800179989073613
+
+Optimum Standard Deviation :
+0.08831862764487236
+
+Optimum Sharpe Ratio :
+0.34263734905576815
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00764806  0.01158079 -0.00282333]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001938    0.001679     0.002133
+Foreign EQ    0.001679    0.002608     0.002561
+Emerging EQ   0.002133    0.002561     0.004651
+
+Unconstrained Optimal Weights :
+[ 1.52152731  3.01444818 -2.55990273]
+
+Normalised Optimal Weights :
+[ 0.76997535  1.52547428 -1.29544963]
+
+Optimum Expected Returns :
+0.027212499331400825
+
+Optimum Variance :
+0.004590333549119381
+
+Optimum Standard Deviation :
+0.06775200033297453
+
+Optimum Sharpe Ratio :
+0.40164864797588345
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-05  -6.48602730e-06]
+ [ -6.48602730e-06   2.03531603e-05]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00957237  0.01611298 -0.01105141]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001862    0.001613     0.002049
+Foreign EQ    0.001613    0.002548     0.002502
+Emerging EQ   0.002049    0.002502     0.004511
+
+Unconstrained Optimal Weights :
+[ 2.47315978  5.37868575 -4.9241403 ]
+
+Normalised Optimal Weights :
+[ 0.84474344  1.83716779 -1.68191123]
+
+Optimum Expected Returns :
+0.056275931311109
+
+Optimum Variance :
+0.0064072856674596305
+
+Optimum Standard Deviation :
+0.08004552246977735
+
+Optimum Sharpe Ratio :
+0.7030490847549531
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.0            -1.0              0.0
+View 2        0.0             0.0              1.5
+
+Q matrix:
+[0.02, 0.015]
+
+Scalar on Manager's Views (Omega) :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Prior Precision Views :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Posterior returns :
+[ 0.01005432  0.00042699  0.00861661]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001975    0.001716     0.002133
+Foreign EQ    0.001716    0.002597     0.002513
+Emerging EQ   0.002133    0.002513     0.004603
+
+Unconstrained Optimal Weights :
+[ 3.60340643 -2.78522461  0.4750046 ]
+
+Normalised Optimal Weights :
+[ 2.78645552 -2.15376884  0.36731332]
+
+Optimum Expected Returns :
+0.030261260448482544
+
+Optimum Variance :
+0.007800179989073613
+
+Optimum Standard Deviation :
+0.08831862764487236
+
+Optimum Sharpe Ratio :
+0.34263734905576815
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00764806  0.01158079 -0.00282333]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001938    0.001679     0.002133
+Foreign EQ    0.001679    0.002608     0.002561
+Emerging EQ   0.002133    0.002561     0.004651
+
+Unconstrained Optimal Weights :
+[ 1.52152731  3.01444818 -2.55990273]
+
+Normalised Optimal Weights :
+[ 0.76997535  1.52547428 -1.29544963]
+
+Optimum Expected Returns :
+0.027212499331400825
+
+Optimum Variance :
+0.004590333549119381
+
+Optimum Standard Deviation :
+0.06775200033297453
+
+Optimum Sharpe Ratio :
+0.40164864797588345
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.5             0.0              0.0
+View 2        0.0             1.0             -1.0
+
+Q matrix:
+[0.015, 0.03]
+
+Scalar on Manager's Views (Omega) :
+[[  4.15273908e-05  -6.48602730e-06]
+ [ -6.48602730e-06   2.03531603e-05]]
+
+Prior Precision Views :
+[[  4.15273908e-04  -6.48602730e-05]
+ [ -6.48602730e-05   2.03531603e-04]]
+
+Posterior returns :
+[ 0.00957237  0.01611298 -0.01105141]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001862    0.001613     0.002049
+Foreign EQ    0.001613    0.002548     0.002502
+Emerging EQ   0.002049    0.002502     0.004511
+
+Unconstrained Optimal Weights :
+[ 2.47315978  5.37868575 -4.9241403 ]
+
+Normalised Optimal Weights :
+[ 0.84474344  1.83716779 -1.68191123]
+
+Optimum Expected Returns :
+0.056275931311109
+
+Optimum Variance :
+0.0064072856674596305
+
+Optimum Standard Deviation :
+0.08004552246977735
+
+Optimum Sharpe Ratio :
+0.7030490847549531
+
+***********************END OF SECTION***********************
+
+********************BEGINNING OF SECTION********************
+
+Risk Aversion:
+3
+
+Scalar on the Uncertainity in the Prior (Tau):
+0.1
+
+Market weights(Prior):
+[0.5, 0.4, 0.1]
+
+P matrix:
+        US Equity  Foreign Equity  Emerging Equity
+View 1        1.0            -1.0              0.0
+View 2        0.0             0.0              1.5
+
+Q matrix:
+[0.02, 0.015]
+
+Scalar on Manager's Views (Omega) :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Prior Precision Views :
+[[  1.08649640e-04  -5.43103688e-05]
+ [ -5.43103688e-05   9.86270250e-04]]
+
+Posterior returns :
+[ 0.01005432  0.00042699  0.00861661]
+
+Posterior Return Distribution :
+             US Equity  Foreign EQ  Emerging EQ
+US Equity     0.001975    0.001716     0.002133
+Foreign EQ    0.001716    0.002597     0.002513
+Emerging EQ   0.002133    0.002513     0.004603
+
+Unconstrained Optimal Weights :
+[ 3.60340643 -2.78522461  0.4750046 ]
+
+Normalised Optimal Weights :
+[ 2.78645552 -2.15376884  0.36731332]
+
+Optimum Expected Returns :
+0.030261260448482544
+
+Optimum Variance :
+0.007800179989073613
+
+Optimum Standard Deviation :
+0.08831862764487236
+
+Optimum Sharpe Ratio :
+0.34263734905576815
+
+***********************END OF SECTION***********************
